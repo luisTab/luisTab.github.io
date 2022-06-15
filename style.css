@@ -1,0 +1,29 @@
+body {
+    background-color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #cbe1eb;
+    margin-bottom: 3em;
+}
+header h1 {
+    margin-left: 1em;
+    margin: 3;
+    display: inline-block;
+}
+header p {
+    display: inline-block;
+    margin-left: 23em;
+}
+
+main {
+    background-color: #FFFFFF;
+    border: 1px solid rgb(70, 69, 69);
+    box-shadow: 1px 1px 5px rgb(202, 205, 206);
+    border-radius: 2px;
+    width: 50em;
+    margin-left: 25em;
+}
+
